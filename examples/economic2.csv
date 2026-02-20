@@ -1,0 +1,22 @@
+country,year,gdp,gdp_growth,inflation,unemployment,population,continent
+Spain,2023,1394,2.4,3.2,11.8,48,Europe
+Spain,2022,1409,5.5,8.4,13.0,48,Europe
+Spain,2021,1425,6.4,3.0,14.8,47,Europe
+Mexico,2023,1490,3.2,4.7,2.9,128,North America
+Mexico,2022,1414,3.9,7.9,3.3,127,North America
+Mexico,2021,1274,5.7,5.7,4.1,126,North America
+Indonesia,2023,1319,5.0,3.0,5.3,278,Asia
+Indonesia,2022,1318,5.3,4.2,5.5,276,Asia
+Indonesia,2021,1186,3.7,1.6,6.3,275,Asia
+Netherlands,2023,991,0.1,4.1,3.5,18,Europe
+Netherlands,2022,1009,4.3,11.6,3.6,18,Europe
+Netherlands,2021,1018,4.9,2.7,3.8,17,Europe
+Saudi Arabia,2023,1114,-0.8,2.3,5.1,36,Asia
+Saudi Arabia,2022,1102,8.7,2.5,5.8,36,Asia
+Saudi Arabia,2021,833,3.9,3.1,6.6,35,Asia
+Turkey,2023,1155,4.5,64.8,9.4,85,Asia
+Turkey,2022,907,5.6,72.3,10.4,85,Asia
+Turkey,2021,720,11.4,19.6,12.0,84,Asia
+Switzerland,2023,905,0.8,2.2,4.3,9,Europe
+Switzerland,2022,818,2.6,2.8,4.2,9,Europe
+Switzerland,2021,812,4.2,0.6,4.9,9,Europe

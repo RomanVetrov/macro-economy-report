@@ -1,0 +1,40 @@
+country,year,gdp,gdp_growth,inflation,unemployment,population,continent
+United States,2023,25462,2.1,3.4,3.7,339,North America
+United States,2022,23315,2.1,8.0,3.6,338,North America
+United States,2021,22994,5.9,4.7,5.3,337,North America
+China,2023,17963,5.2,2.5,5.2,1425,Asia
+China,2022,17734,3.0,2.0,5.6,1423,Asia
+China,2021,17734,8.4,1.0,5.1,1420,Asia
+Germany,2023,4086,-0.3,6.2,3.0,83,Europe
+Germany,2022,4072,1.8,8.7,3.1,83,Europe
+Germany,2021,4257,2.6,3.1,3.6,83,Europe
+Japan,2023,4230,1.9,3.2,2.4,125,Asia
+Japan,2022,4235,1.0,2.5,2.6,125,Asia
+Japan,2021,4936,2.1,-0.2,2.8,125,Asia
+India,2023,3736,7.2,5.6,7.3,1426,Asia
+India,2022,3385,9.1,6.7,7.9,1417,Asia
+India,2021,3150,8.7,5.6,8.0,1410,Asia
+United Kingdom,2023,3139,0.5,7.9,4.2,67,Europe
+United Kingdom,2022,3070,4.1,9.6,3.9,67,Europe
+United Kingdom,2021,3131,7.6,2.5,4.5,67,Europe
+France,2023,2788,0.7,5.7,7.1,68,Europe
+France,2022,2779,2.5,5.9,7.4,68,Europe
+France,2021,2937,6.8,1.6,7.9,68,Europe
+Brazil,2023,2173,2.9,4.6,8.5,216,South America
+Brazil,2022,1920,2.9,9.3,9.3,215,South America
+Brazil,2021,1609,5.0,8.3,13.2,214,South America
+Italy,2023,2010,0.7,6.4,7.6,59,Europe
+Italy,2022,2011,3.7,8.7,8.2,59,Europe
+Italy,2021,2105,7.0,1.9,9.5,59,Europe
+Canada,2023,2140,1.1,3.9,5.4,39,North America
+Canada,2022,2154,3.4,6.8,5.3,39,North America
+Canada,2021,1995,5.0,3.4,7.4,38,North America
+South Korea,2023,1698,1.4,3.6,2.9,52,Asia
+South Korea,2022,1667,2.6,5.1,3.0,52,Asia
+South Korea,2021,1817,4.1,2.5,3.7,52,Asia
+Russia,2023,2240,-2.1,7.4,4.3,144,Europe
+Russia,2022,2215,-2.7,13.8,4.0,144,Europe
+Russia,2021,1778,5.6,6.7,4.8,144,Europe
+Australia,2023,1693,2.1,5.2,3.7,26,Oceania
+Australia,2022,1675,3.7,6.6,3.7,26,Oceania
+Australia,2021,1543,1.6,2.9,5.1,26,Oceania
